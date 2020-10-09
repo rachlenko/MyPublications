@@ -14,7 +14,7 @@ My presentations:
 - How to parallel IO on HPC clusters (02/2008)
 - Cuda - first steps (01/2009)
 - Data Pipeline in scale (01/2014)
-- How to replace 20 Cassandra clusters to ScyllaDB (08/2015)
+- [We are testing ScyllaDB](https://www.outbrain.com/techblog/2016/03/we-are-testing-scylladb-live-blogging-1/) (03/2016)
 - Kafka art of tuning (01/2016) 
 - Heterogeneous cloud architecture (02/2017)
 - Package your application to Cloudera Hadoop cluster (01/2018)
