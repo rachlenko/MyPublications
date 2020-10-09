@@ -1,7 +1,3 @@
-# Technical blogs
-
-March 14, 2016 Outbrain. My first migration cassandra to ScyllaDB: [We are testing ScyllaDB](https://www.outbrain.com/techblog/2016/03/we-are-testing-scylladb-live-blogging-1/)
-
 # Recommended Books
 
 - Systems Performance - Brendan Gregg (Prentice Hall, 2013)
